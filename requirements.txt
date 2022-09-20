@@ -1,2 +1,3 @@
-pyopencl~=2019.1
+# pyopencl~=2019.1
 tqdm~=4.40
+# gdal
